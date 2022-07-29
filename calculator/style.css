@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(194, 250, 250);
+}
+table.tbl{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 15px;
+    box-shadow: rgb(0, 0, 0) 0px 20px 70px 5px;
+}
+.c{
+    font-size:auto;
+}
+
+
+.button{
+    font-weight:900;
+    border-radius: 10px;
+    color: black;
+    cursor: pointer;
+    background-color: white;
+    font-size: 2em;
+    border: 1px solid #ddd;
+    padding: 20px;
+    width: 100%;
+    margin: 10px 60px 10px 0px;
+}
+
+ .text {
+    color: black;
+    background: white;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 2em;
+    width: 100%;
+    font-weight: 900;
+}
+#clear{
+    background: #09aaf5;
+}
